@@ -182,6 +182,13 @@ body.no-scroll{overflow:hidden;}
   border-radius:20px;
   margin-bottom:14px;
 }
+.featured-logo{
+  display:block;
+  width:62%;
+  max-width:220px;
+  margin:2px auto 16px;
+  filter:drop-shadow(0 10px 22px rgba(0,0,0,.45));
+}
 .featured-title{
   font-family:'Rajdhani',sans-serif;
   font-size:21px;
